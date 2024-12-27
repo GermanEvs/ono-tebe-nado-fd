@@ -27,14 +27,6 @@ body {
   text-decoration: none;
 }
 
-.header__link{
-
-}
-
-.header__links-list-item {
-  
-}
-
 .header__logo {
   width: 148px;
 }
@@ -277,10 +269,6 @@ article {
 .footer__menu-list {
   text-align: center;
   list-style: none;
-}
-
-.footer__menu-link{
-
 }
 
 .footer__menu-link_active {
