@@ -1,8 +1,7 @@
-
 body {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   color: #000000;
-  font-style: 'Raleway', sans-serif;
+  font-style: "Raleway", sans-serif;
 }
 
 .header {
@@ -31,7 +30,6 @@ body {
   list-style: circle;
 }
 
-
 .header__logo {
   width: 148px;
 }
@@ -43,12 +41,12 @@ body {
   line-height: 24.3px;
   text-decoration-skip-ink: none;
   justify-self: end;
- }
+}
 
 .cover {
   position: relative;
   background-size: cover;
-  background-position: center ;
+  background-position: center;
   background-image: url(../images/cover.jpg);
   background-repeat: no-repeat;
   width: 1100px;
@@ -56,11 +54,11 @@ body {
 }
 
 .text-tertiary {
-  color: #FFFFFF;
+  color: #ffffff;
 }
 
 .overlay {
-  position: absolute;    
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -68,10 +66,10 @@ body {
   background-color: #000000;
   opacity: 60%;
   z-index: 0;
-} 
+}
 
 .cover__title {
-  color: #FFFFFF;
+  color: #ffffff;
   font-family: Raleway;
   font-size: 100px;
   font-weight: 700;
@@ -112,17 +110,17 @@ body {
 
 .cover__description-text {
   word-spacing: 18px;
-  position: relative; 
+  position: relative;
 }
 
 .bet-button {
-  position: relative;         
-  border: 1px solid #FFF;    
-  padding: 14px 32px;         
-  background-color: transparent; 
-  color: #FFFFFF;            
-  text-transform: uppercase; 
-  cursor: pointer; 
+  position: relative;
+  border: 1px solid #fff;
+  padding: 14px 32px;
+  background-color: transparent;
+  color: #ffffff;
+  text-transform: uppercase;
+  cursor: pointer;
 }
 
 .lots {
@@ -142,7 +140,7 @@ article {
 
 .lots__card-list {
   display: flex;
-  justify-content:center;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 25px;
   list-style-type: none;
@@ -162,7 +160,7 @@ article {
   width: 100%;
   padding: 50px 40px;
   background-repeat: no-repeat;
-  background-position:center;
+  background-position: center;
   background-size: cover;
 }
 
@@ -217,13 +215,13 @@ article {
 .about {
   display: grid;
   position: relative;
-  grid-template-columns:334px 1fr;
+  grid-template-columns: 334px 1fr;
   column-gap: 28px;
   margin: 120px 24px 180px 24px;
 }
 
 .about__column {
-  justify-self:center;
+  justify-self: center;
 }
 
 .about__logo {
@@ -268,7 +266,7 @@ article {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding:0 50px 82px 50px;
+  padding: 0 50px 82px 50px;
 }
 
 .footer__menu-list {
