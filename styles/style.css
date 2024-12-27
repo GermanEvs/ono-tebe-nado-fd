@@ -154,8 +154,6 @@ article{
   width: 334px;
 }
 
-
-
 .card {
   position: relative;
   display: flex;
@@ -232,9 +230,7 @@ article {
   position: relative;
   grid-template-columns:334px 1fr;
   column-gap: 28px;
-  /*margin: 118px 24px 0px 24px;*/
   margin: 120px 24px 180px 24px;
-  
 }
 
 .about__column {
@@ -260,7 +256,7 @@ article {
   grid-column: 2/4;
 }
 
-.about__title { 
+.about__title {
   padding-bottom: 102px;
   padding-top: 140px;
   font-weight: bold;
@@ -305,7 +301,6 @@ article {
   display: flex;
   gap: 48px;
 }
-
 
 .footer__social-icon {
   width: 48px;
