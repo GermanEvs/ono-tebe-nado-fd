@@ -28,7 +28,7 @@ body {
 }
 
 .header__links-list-item {
-  list-style:circle
+  list-style:circle;
 }
 
 
@@ -60,20 +60,17 @@ body {
 }
 
 .overlay {
-  
   position: absolute; 
   top: 0;
   left: 0;
   width: 100%;
   height: 100%; 
- 
   background-color:#000000;
   opacity: 60%; 
   z-index: 0;
 }
 
 .cover__title {
-
   color: #FFFFFF;
   font-family: Raleway;
   font-size: 100px;
@@ -107,7 +104,7 @@ body {
   justify-content: flex-end;
   align-items: center;
   gap: 108px;
-  padding: 26px 50px 50px 50px;;
+  padding: 26px 50px 50px 50px;
   font-size: 22px;
   text-transform: uppercase;
   border: 0;
