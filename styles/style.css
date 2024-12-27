@@ -1,5 +1,5 @@
 
-body{
+body {
   background-color:#FFFFFF;
   color: #000000;
   font-style: 'Raleway', sans-serif;
@@ -36,7 +36,7 @@ body{
   width: 148px;
 }
 
-.address{
+.address {
   max-width: 240px;
   font-style: normal;
   font-size: 18px;
@@ -55,7 +55,7 @@ body{
   height: 757px;
 }
 
-.text-tertiary{
+.text-tertiary {
   color:#FFFFFF;
 }
 
@@ -105,17 +105,12 @@ body{
   justify-content: flex-end;
   align-items: center;
   gap: 108px;
-  ;
- padding: 26px 50px 50px 50px;;
- 
-
-
-
+  padding: 26px 50px 50px 50px;;
   font-size: 22px;
   text-transform: uppercase;
   border: 0;
-   
 }
+
 .cover__description-text {
   word-spacing: 18px;
   position: relative;
