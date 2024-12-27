@@ -1,1 +1,1 @@
-https://github.com/GermanEvs/ono-tebe-nado-fd  
+https://github.com/GermanEvs/ono-tebe-nado-fd
