@@ -8,7 +8,7 @@ body {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  padding: 93px 50px 92px 50px;
+  padding: 90px 50px 92px 50px;
 }
 
 .header__links-list {
@@ -86,12 +86,12 @@ body {
 
 .text-center {
   text-align: center;
-  transform: translate(15px, 21px);
+  transform: translate(15px, 18px);
 }
 
 .text-right {
   text-align: right;
-  transform: translate(30px, 40px);
+  transform: translate(30px, 38px);
 }
 
 .cover__description {
@@ -267,7 +267,7 @@ article {
 
 .footer__menu-list {
   text-align: center;
-  list-style: none; 
+  list-style: none;
 }
 
 .footer__menu-link_active {
