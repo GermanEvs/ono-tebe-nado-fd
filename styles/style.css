@@ -268,6 +268,7 @@ article {
 .footer__menu-list {
   text-align: center;
   list-style: none;
+  font-size: 18px;
 }
 
 .footer__menu-link_active {
